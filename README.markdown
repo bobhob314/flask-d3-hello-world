@@ -1,14 +1,14 @@
 # flask+d3 Hello World
 
-### author
+### Author
 
 * [Dan Foreman-Mackey](http://danfm.ca/)
 
-### contributors
+### Contributors
 
 * [David W. Hogg](http://cosmo.nyu.edu/hogg/)
 
-### do it
+### Do it
 
 1. Install [flask](http://flask.pocoo.org/) and [numpy](http://numpy.scipy.org/).
 
